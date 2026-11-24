@@ -13,7 +13,7 @@ A la entrada se tienen 4 bits, y a la salida tenemos 7 bits.
 
 ## How to test
 
-Explain how to use your project
+Hay que conectar y usar
 
 ## External hardware
 
